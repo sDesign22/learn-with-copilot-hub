@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "title": "Intro to HTML",
+    "category": "Frontend",
+    "summary": "Learn the basics of HTML structure.",
+    "content": "HTML stands for HyperText Markup Language. It's the foundation of web pages. You'll learn about tags, attributes, and document structure.",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/HTML"
+  },
+  {
+    "id": 2,
+    "title": "CSS Selectors",
+    "category": "Frontend",
+    "summary": "Understand how to target HTML elements with CSS.",
+    "content": "Selectors let you apply styles to specific elements. You'll explore class selectors, ID selectors, pseudo-classes, and specificity.",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_selectors"
+  },
+  {
+    "id": 3,
+    "title": "JavaScript Variables",
+    "category": "Frontend",
+    "summary": "Use let, const, and var to store and update data.",
+    "content": "Variables hold values you can access and change. You'll learn about declaration, scope, and modern usage with let/const.",
+    "link": "https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+  },
+  {
+    "id": 4,
+    "title": "What is an API?",
+    "category": "Backend",
+    "summary": "Explore how apps communicate using APIs.",
+    "content": "APIs let software systems talk to each other. You'll see how REST APIs work using HTTP methods and JSON data.",
+    "link": "https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs"
+  },
+  {
+    "id": 5,
+    "title": "Intro to Git & GitHub",
+    "category": "Tools",
+    "summary": "Learn the basics of version control and collaboration.",
+    "content": "Git tracks file changes and lets you collaborate. GitHub hosts repositories online, where you can push, pull, and open issues.",
+    "link": "https://docs.github.com/en/get-started/quickstart"
+  }
+]
