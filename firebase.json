@@ -1,0 +1,19 @@
+{
+  "hosting": {
+    // 🔥 Tell Firebase which folder contains your website files
+    "public": "public",
+
+    // 🧹 These files will not be uploaded
+    "ignore": [
+      "firebase.json",
+      "**/.*",              // hidden files like .gitignore
+      "**/node_modules/**"  // node dependencies (we’re not using them here)
+    ],
+
+    // 🌐 For Single Page Apps: redirect all routes to index.html
+    // Helpful if you use JavaScript-based routing or query strings
+    "rewrites": [
+      { "source": "**", "destination": "/index.html" }
+    ]
+  }
+}
