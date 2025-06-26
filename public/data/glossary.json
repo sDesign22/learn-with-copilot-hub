@@ -1,0 +1,26 @@
+[
+  {
+    "term": "API",
+    "definition": "A set of rules that allow different software applications to communicate with each other."
+  },
+  {
+    "term": "DOM",
+    "definition": "The Document Object Model represents the page structure that JavaScript can interact with."
+  },
+  {
+    "term": "CSS",
+    "definition": "Cascading Style Sheets control the visual layout and appearance of web elements."
+  },
+  {
+    "term": "Git",
+    "definition": "A version control system for tracking changes to code and collaborating with others."
+  },
+  {
+    "term": "JavaScript",
+    "definition": "A scripting language used to create interactive behaviors on web pages."
+  },
+  {
+    "term": "Component",
+    "definition": "A modular, reusable UI element often used in frameworks like React or Vue."
+  }
+]
